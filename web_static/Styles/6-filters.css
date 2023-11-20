@@ -87,6 +87,7 @@ ul {
     padding: 20px 30px;
     margin: 0px;
     margin-top: 20px;
+    z-index: 1;
 }
 
 
